@@ -5,6 +5,98 @@ body
 {
 	margin: 0;
 	padding: 0;
-	background-color: #00980B;
-		
+	background-color: #54624C;
+
 }
+
+container {
+	width: 80%;
+	margin: 0 auto;
+	
+}
+
+header {
+	background: #333333;
+}
+
+logo {
+	float: left;
+}
+
+nav {
+	float: right;
+
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 100px;
+	margin-right: 40px
+}
+
+nav a {
+	color: #54624C;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 30px
+}
+
+#maincontent ul {
+    margin: 0;
+	padding: 0;
+	position:relative;
+	top: 300px;
+}
+#maincontent li {
+    display:block;
+    float:left;
+    margin-left: 500px;
+	align-content: center;
+	font-size: 500px
+}
+
+#Actors ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#Actors li {
+	  display:block;
+    float:left;
+    margin-left: 500px;
+	align-content: center;
+	font-size: 500px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
